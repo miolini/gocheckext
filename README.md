@@ -1,0 +1,4 @@
+gocheckext
+==========
+
+Extending GoCheck feauters
